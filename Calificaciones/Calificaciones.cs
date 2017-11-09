@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+                                                           //Define si es un buen Grupo o no
 namespace Calificacion
 {
     class Program
